@@ -1,7 +1,6 @@
 ---
 Moniker: LVS Node
 Validator: terravaloper16f9xsgwvw93pzugeztz8njmlpcveh0cw2rg3jn
-Email: f3hdltd@gmail.com
 Telegram: @LVS_Node_Validator
 Twitter: @LVSNode
 ---
